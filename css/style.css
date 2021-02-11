@@ -1,0 +1,29 @@
+.container-geral{
+    border: 1px solid black;
+    width: 500px;
+    margin:0 auto;
+    position: relative;
+    height: 400px;
+}
+*{margin: 0;padding:0;}
+
+.bloco{
+    background-color: blue;
+    width: 30px;
+    height: 30px;
+}
+.bloco1{
+    position:absolute;
+    bottom: 0;
+    left: 0;
+}
+.bloco2{
+    position:absolute;
+    bottom: 0;
+    left: 32px;
+}
+.bloco3{
+    position:absolute;
+    bottom: 0;
+    left: 64px;
+}
