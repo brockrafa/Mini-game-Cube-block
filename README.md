@@ -1,4 +1,4 @@
-# Cube-block
+# Mini jogo: Cube-block
 Mini jogo criado com javascript, html e css. 
 
 ### O objetivo do jogo
