@@ -2,7 +2,7 @@
 
 //CONFIGURAÇÕES DO JOGO
 
-var velocidadeJogo =100;
+var velocidadeJogo =80;
 var proximaPosicao = parseInt(32);
 var area = 500;
 var direcao = 'direita';
