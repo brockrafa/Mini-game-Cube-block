@@ -13,4 +13,4 @@ Obs: A parte visual do jogo ainda não foi finalizada, pois o foco do projeto é
 
 ## Demonstração
 
-<img src="/media/demonstracao-cube-bloco.gif"
+<img src="/media/demonstracao-cube-bloco.gif">
