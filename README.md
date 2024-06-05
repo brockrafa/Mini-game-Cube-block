@@ -10,3 +10,7 @@ Obs: A parte visual do jogo ainda não foi finalizada, pois o foco do projeto é
 ## Configurações básicas
  - A velocidade pode ser alterada no script /javascript/javascript.js 
     - Variável: velocidadeJogo=80 (quanto menor o valor, mais rápido ficará o jogo)
+
+## Demonstração
+
+<img src="/media/demonstracao-cube-bloco.gif"
